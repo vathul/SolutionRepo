@@ -1,0 +1,15 @@
+/Users/aparnameenaakunjithapatham/Documents/programs/SolutionRepo/bin/Debug/net6.0/SolutionRepo
+/Users/aparnameenaakunjithapatham/Documents/programs/SolutionRepo/bin/Debug/net6.0/SolutionRepo.deps.json
+/Users/aparnameenaakunjithapatham/Documents/programs/SolutionRepo/bin/Debug/net6.0/SolutionRepo.runtimeconfig.json
+/Users/aparnameenaakunjithapatham/Documents/programs/SolutionRepo/bin/Debug/net6.0/SolutionRepo.dll
+/Users/aparnameenaakunjithapatham/Documents/programs/SolutionRepo/bin/Debug/net6.0/SolutionRepo.pdb
+/Users/aparnameenaakunjithapatham/Documents/programs/SolutionRepo/obj/Debug/net6.0/SolutionRepo.csproj.AssemblyReference.cache
+/Users/aparnameenaakunjithapatham/Documents/programs/SolutionRepo/obj/Debug/net6.0/SolutionRepo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aparnameenaakunjithapatham/Documents/programs/SolutionRepo/obj/Debug/net6.0/SolutionRepo.AssemblyInfoInputs.cache
+/Users/aparnameenaakunjithapatham/Documents/programs/SolutionRepo/obj/Debug/net6.0/SolutionRepo.AssemblyInfo.cs
+/Users/aparnameenaakunjithapatham/Documents/programs/SolutionRepo/obj/Debug/net6.0/SolutionRepo.csproj.CoreCompileInputs.cache
+/Users/aparnameenaakunjithapatham/Documents/programs/SolutionRepo/obj/Debug/net6.0/SolutionRepo.dll
+/Users/aparnameenaakunjithapatham/Documents/programs/SolutionRepo/obj/Debug/net6.0/refint/SolutionRepo.dll
+/Users/aparnameenaakunjithapatham/Documents/programs/SolutionRepo/obj/Debug/net6.0/SolutionRepo.pdb
+/Users/aparnameenaakunjithapatham/Documents/programs/SolutionRepo/obj/Debug/net6.0/SolutionRepo.genruntimeconfig.cache
+/Users/aparnameenaakunjithapatham/Documents/programs/SolutionRepo/obj/Debug/net6.0/ref/SolutionRepo.dll
